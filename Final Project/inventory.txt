@@ -1,0 +1,18 @@
+The Great Gatsby;F. Scott Fitzgerald;Classic;10.99;true
+To Kill a Mockingbird;Harper Lee;Fiction;12.99;true
+1984;George Orwell;Dystopian;9.99;true
+The Catcher in the Rye;J.D. Salinger;Coming of Age;11.99;true
+Pride and Prejudice;Jane Austen;Romance;8.99;true
+The Hobbit;J.R.R. Tolkien;Fantasy;14.99;true
+Harry Potter and the Sorcerer's Stone;J.K. Rowling;Fantasy;15.99;true
+The Lord of the Rings;J.R.R. Tolkien;Fantasy;18.99;true
+The Da Vinci Code;Dan Brown;Mystery;13.99;true
+The Alchemist;Paulo Coelho;Philosophical;10.99;true
+Animal Farm;George Orwell;Satire;8.99;true
+The Outsiders;S.E. Hinton;Coming of Age;10.99;true
+Brave New World;Aldous Huxley;Dystopian;12.99;true
+The Road;Cormac McCarthy;Post-Apocalyptic;11.99;true
+Fahrenheit 451;Ray Bradbury;Dystopian;9.99;true
+Blink;Malcolm Gladwell;Psychology;10.99;true
+Outliers;Malcolm Gladwell;Psychology;11.99;true
+The Help;Kathryn Stockett;Historical Fiction;13.99;true
