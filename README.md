@@ -5,10 +5,9 @@ Here is the documentation and guide on how to run the bookstore simulation:
 https://docs.google.com/document/d/1aGsx2pNGj9o3TG_QU4jWFbJvsRFmsKKwOGLR0QTtGnM/edit?tab=t.0
 
 
-https://github.com/user-attachments/assets/cf8ee682-f563-4473-9edb-fbf0e3f4b863
+Here is a quick demonstration of the project:
 
-
-
+https://github.com/user-attachments/assets/030de9f8-d43a-4a5c-ac51-e9745da62cd6
 
 
 
