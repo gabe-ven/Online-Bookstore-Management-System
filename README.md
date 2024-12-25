@@ -4,4 +4,9 @@ The Online Bookstore Management System is a Java-based project that aims to crea
 Here is the documentation and guide on how to run the bookstore simulation:
 https://docs.google.com/document/d/1aGsx2pNGj9o3TG_QU4jWFbJvsRFmsKKwOGLR0QTtGnM/edit?tab=t.0
 
+Here is a quick demonstration of the project:
+https://github.com/user-attachments/assets/cf8ee682-f563-4473-9edb-fbf0e3f4b863
+
+
+
 
