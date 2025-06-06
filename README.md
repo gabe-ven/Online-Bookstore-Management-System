@@ -76,6 +76,7 @@ Each class contains well-documented methods using JavaDoc, including constructor
 
 ## 🧭 Project Structure
 
+```
 OnlineBookstore/
 ├── src/
 │   └── bookstore/
@@ -90,6 +91,7 @@ OnlineBookstore/
 ├── UML_Diagram.pdf
 └── docs/
     └── javadoc/
+```
 
 
 ---
